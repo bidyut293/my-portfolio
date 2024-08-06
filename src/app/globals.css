@@ -105,3 +105,7 @@ a {
     color-scheme: dark;
   }
 }
+
+.newClass {
+  color: rgba(173, 123, 123, 0);
+}
